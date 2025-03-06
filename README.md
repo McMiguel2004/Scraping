@@ -78,7 +78,7 @@ Puedes conectarte a la base de datos y mostrar los productos con sus imágenes d
 
 - ✅ **Python 3.8+**
 - ✅ **MySQL**
-- ✅ **Navegador compatible con Selenium** (Chrome recomendado)
+- ✅ **Navegador compatible con Selenium** (Fire Fox)
 
 ---
 
