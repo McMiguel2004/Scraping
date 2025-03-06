@@ -86,4 +86,4 @@ Puedes conectarte a la base de datos y mostrar los productos con sus imágenes d
 Este proyecto está bajo la **licencia MIT**.
 
 ---
-✍️ **Autor**: [Tu Nombre](https://github.com/tu-usuario)  
+✍️ **Autor**: [Tu Nombre](https://github.com/MCmiguel2004)  
