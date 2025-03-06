@@ -18,9 +18,7 @@ Este proyecto realiza scraping de datos desde varias fuentes y los almacena en u
 ├── csfloat.py     # Scraping de la segunda página
 ├── inserts.py     # Inserción de datos en MySQL
 ├── fotos.py       # Descarga de imágenes desde la base de datos
-├── imagenes_productos/  # Carpeta generada con las imágenes descargadas
-├── requirements.txt  # Dependencias del proyecto
-└── README.md      # Documentación del proyecto
+└── imagenes_productos/  # Carpeta generada con las imágenes descargadas
 ```
 
 ## ⚙️ Instalación y configuración
@@ -80,7 +78,7 @@ Puedes conectarte a la base de datos y mostrar los productos con sus imágenes d
 
 - ✅ **Python 3.8+**
 - ✅ **MySQL**
-- ✅ **Navegador compatible con Selenium** (Chrome recomendado)
+- ✅ **Navegador compatible con Selenium** (Fire Fox)
 
 ---
 
@@ -88,4 +86,4 @@ Puedes conectarte a la base de datos y mostrar los productos con sus imágenes d
 Este proyecto está bajo la **licencia MIT**.
 
 ---
-✍️ **Autor**: [Tu Nombre](https://github.com/tu-usuario)  
+✍️ **Autor**: [MCmiguel2004](https://github.com/MCmiguel2004)  
